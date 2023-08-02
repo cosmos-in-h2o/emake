@@ -1,0 +1,16 @@
+[
+{
+  "directory": "D:\\Program\\emake",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-std=c++17", "-Iinclude", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\emake\\windows\\x64\\release\\src\\main.cc.obj", "src\\main.cc"],
+  "file": "src\\main.cc"
+},
+{
+  "directory": "D:\\Program\\emake",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-std=c++17", "-Iinclude", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\emake\\windows\\x64\\release\\src\\parser.cc.obj", "src\\parser.cc"],
+  "file": "src\\parser.cc"
+},
+{
+  "directory": "D:\\Program\\emake",
+  "arguments": ["clang.exe", "-c", "-Qunused-arguments", "-m64", "-std=c++17", "-Iinclude", "-fexceptions", "-fcxx-exceptions", "-o", "build\\.objs\\emake\\windows\\x64\\release\\src\\target.cc.obj", "src\\target.cc"],
+  "file": "src\\target.cc"
+}]

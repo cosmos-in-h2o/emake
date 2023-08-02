@@ -1,0 +1,6 @@
+target("emake")
+set_languages("c++17")
+add_toolchains("clang")
+add_files("src/*.cc")
+add_includedirs("include")
+set_targetdir("bin")

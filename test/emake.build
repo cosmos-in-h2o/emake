@@ -1,0 +1,9 @@
+compiler=clang
+standard=c++20
+target test
+local a=./
+b=..
+kind=binary
+public include_dir=&a
+include_dir=@b
+file=./str.cc
